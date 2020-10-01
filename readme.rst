@@ -68,3 +68,11 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+***************
+About Exam Cell System Application 
+***************
+This application is basically virtual a exam cell.
+Stores the marksheets of students.
+Display/Hide exam form links.

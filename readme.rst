@@ -73,6 +73,6 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 About Exam Cell System Application 
 ***************
-This application is basically virtual exam cell.
+This application is basically virtual a exam cell.
 Stores the marksheets of students.
 Display/Hide exam form links.
